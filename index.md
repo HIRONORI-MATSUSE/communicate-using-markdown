@@ -11,3 +11,7 @@
 $ git 初期化
 /Users/skills/Projects/recipe-repository/.git/ で初期化された空の Git リポジトリ
 ```
+
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
